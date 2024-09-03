@@ -23,3 +23,6 @@ YourNameHere:     Your Username.
 BuildVersion:     The combined map number we're up to.
 
 YourDraftVersion: The draft version of the map you're working on. 
+
+
+The build version—or combined version—will be uploaded here. Use this version to build off and add to it.
