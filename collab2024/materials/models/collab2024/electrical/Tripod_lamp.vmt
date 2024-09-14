@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+$basetexture "models\collab2024\electrical\tripod_lamp_tex"
+$bumpmap "models\collab2024\electrical\tripod_lamp_n"
+$surfaceprop Metal_Box
+
+$selfillum 1
+
+$selfillummask "models\collab2024\electrical\tripod_lamp_self"
+
+$selfillumtint "[1 1 1]"
+$selfillumtint_dark "[1 1 1]"
+}
